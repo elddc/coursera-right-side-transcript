@@ -1,5 +1,5 @@
 # Coursera Right Side Transcript
-Reposition Coursera's transcript to the right side of the screen.
+A quick and simple userscript to reposition Coursera's transcript to the right side of the screen.
 
 <table>
   <tr>
@@ -12,3 +12,7 @@ Reposition Coursera's transcript to the right side of the screen.
   </tr>
 </tr>
 </table>
+
+---
+
+Download on [GreasyFork](https://greasyfork.org/en/scripts/506351-coursera-right-side-transcript)
