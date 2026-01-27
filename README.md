@@ -1,5 +1,5 @@
 # Coursera Right Side Transcript
-A quick and simple userscript to reposition Coursera's transcript to the right side of the screen.
+A quick and simple userscript to reposition Coursera's transcript to the right side of the screen, and auto-scroll the current transcript line into view.
 
 <table>
   <tr>
@@ -7,12 +7,12 @@ A quick and simple userscript to reposition Coursera's transcript to the right s
     <th>After</th>
   </tr>
   <tr></tr>
-    <td><image src="https://github.com/user-attachments/assets/8e0b2569-ff76-4473-a63f-40cd7b81d1a7" /></td>
-    <td><image src="https://github.com/user-attachments/assets/770bdfc8-a7cc-42e8-971b-8639571f814e" /></td>
+    <td><img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/65e65db6-5aba-4e12-904e-7a45f3ae2675" /></td>
+    <td><image src="https://github.com/user-attachments/assets/e7494041-ede6-4b04-ba4b-3322579588b9" /></td>
   </tr>
 </tr>
 </table>
-
+      
 ---
 
 Download on [GreasyFork](https://greasyfork.org/en/scripts/506351-coursera-right-side-transcript)
